@@ -1,3 +1,3 @@
 # Django Blog Site
 
-![Screenshot](screenshots/sc1.png)
+<img src="screenshots/sc1.png">
