@@ -1,3 +1,3 @@
 # Django Blog Site
 
-![screenshots](sc1.png)
+![Screenshot](screenshots/sc1.png)
